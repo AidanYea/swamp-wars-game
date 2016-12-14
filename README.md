@@ -27,3 +27,8 @@ CONFLICT
   6.1 If the Ogre moves into the same square as two or more enemies, what happens depends on the Ogre’s diet.  If his diet is “ogre enemies” he kills the enemies. If the Ogre’s diet is anything other than “ogre enemies” then the ogre enemies kill the Ogre and the game is over.
   
   6.2 If the Ogre’s diet is “ogre enemies” it takes three or more enemies in the same square to kill the ogre. 
+
+THE SWAMP
+
+7. The swamp can be thought of as a four by four grid. The game should be written so that the user can select any swamp size but the default is four by four. When the game starts the Ogre is placed in a random square except for the top left corner.
+
